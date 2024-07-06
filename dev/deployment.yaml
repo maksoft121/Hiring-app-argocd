@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: maksoft121/hiring-app:36
+        image: maksoft121/hiring-app:26
         ports:
         - containerPort: 8080
